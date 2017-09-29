@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+September 29, 2017
 
 ## Student Name:  
-(First and Last Name)
+Jane Pietruszka
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+I learned how to use version control system ,set up github, and applied it to cloud9. 
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. A Version Control System is a component of software configuration management that changes documents, computer programs, large web sites, and other information. 
+2. Git is a version control system that is used for tracking changes in computer files and coordination work on files among multiple people. 
+3. GitHub is a web-based Git and internet hosting service. 
 
